@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt",
+    "price": 19.99,
+    "category": "Apparel"
+  },
+  {
+    "id": 2,
+    "name": "Sneakers",
+    "price": 49.99,
+    "category": "Footwear"
+  },
+  {
+    "id": 3,
+    "name": "Jeans",
+    "price": 39.99,
+    "category": "Apparel"
+  },
+  {
+    "id": 4,
+    "name": "Hat",
+    "price": 15.99,
+    "category": "Apparel"
+  }
+]
