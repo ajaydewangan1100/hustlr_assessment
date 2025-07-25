@@ -6,11 +6,19 @@ This project uses Node.js as the runtime environment and Express.js as the web a
 
 ## Setup
 
-1. Install dependencies:
+1. Clone the project
+    ```
+    git clone https://github.com/ajaydewangan1100/hustlr_assessment.git
+    ```
+2. Go to the project directory
+    ```
+    cd hustlr_assessment
+    ```
+3. Install dependencies:
    ```bash
    npm install
    ```
-2. Start the server:
+4. Start the server:
    ```bash
    node server.js
    ```
